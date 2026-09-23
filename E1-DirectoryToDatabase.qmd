@@ -1,8 +1,8 @@
 ---
 title: "In-Class Exercise: Building a Database of Muncie Directories"
 subtitle: "From a printed source, to a table, to related tables"
-author: ""
-date: ""
+author: "Benjamin Maggard"
+date: "09/23/26"
 format:
   html:
     df-print: paged
@@ -60,11 +60,11 @@ Now look at the **scan** of the same page available online by clicking on this U
 
 (@) Compare the scan with the text above. Name **three** things a reader of the scan knows that the OCR text gets wrong or loses.
 
->
+> You lose the ability to see the format of the words on the scan with the text. You can't really see the bigger title type words from the scan on the text about, instead you see a jumble of letters and characters. Also, you aren't able to see colors of the scanned page with just the text.
 
 (@) Find the page in this city directory volume that explains the directory's abbreviations (the table of contents on Page 7 tells you where). What does an asterisk before a name mean?
 
->
+>An asterisk before a name means colored. 
 
 ### Where did the sample table you loaded with `read_csv()` come from?
 
